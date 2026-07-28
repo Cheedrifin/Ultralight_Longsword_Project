@@ -1,2 +1,2 @@
-# Epee-longue-build-guide
-build guide for ultralight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
+# Ultralight longsword project
+build guide for *epee longue* ultalight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
