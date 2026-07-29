@@ -21,23 +21,27 @@ super glue
 hacksaw sufficient for metal, or other tool for cutting threaded rod
 
 Part alternatives: (details discussed later)
+
 guard:
 Zen warrior armory quillons
 sendcutsend cross
+
 blade:
 other epee blade
 foil blade
 rapier blade
 sidesword blade
+
 grip:
 homemade grip (wooden or other)
 French grip
 3d printed grip
 HF armory longsword grip
-pommel:
-foil pommel 
-hex nut
 
+pommel:
+french grip or modern saber pommel
+hex nut
+aluminum, 3d printed, or other light material
 
 instructions:
 
@@ -50,7 +54,7 @@ with the grip completed, I assembled the blade, guard, and guard side grip, then
 
 congrats! you've got an awesome ultralight ~550 gram longsword trainer!
 
-now for some thoughts, both in the use and construction of these swords.
+now for some thoughts on the construction of these swords.
 
 -my material costs per unit, not counting shipping, were
 epee blade: 24$
@@ -69,4 +73,11 @@ I believe this cost could be reduced in a few ways, namely the grip and pommel. 
 
 -the grip is easily the most expensive piece(s), I plan to have a 3d printable version modeled that should be much cheaper and potentially reduce weight, though obviously that would require more labor and investment if you don't already have a 3d printer/filament. You could also probably use the HF longsword grip very effectively, though drilling out the clearance for the connection nut might be harder, depending on the length of your drill bit. 
 
--I used an HF dagger pommel, which weights about 110 grams and puts the point of balance right at the crossguard. Using a simple hex nut (or another material like something 3d printed or aluminum) would bring the point of balance forward, which would be more representative of historical longswords and fencing longswords. With a hex nut, the weight goes down to about 420g, so that could be a way to reduce weight further if that interests you.
+-I used an HF dagger pommel, which weights about 125 grams and puts the point of balance right at the crossguard. Using a simple hex nut (or another material like something 3d printed or aluminum) would bring the point of balance forward, which would be more representative of historical longswords and fencing longswords. With a hex nut, the weight goes down to about 420g, so that could be a way to reduce weight further if that interests you.
+
+-#5 blades are (roughly) 35 inches. this is much shorter than the vast majority of longswords used for fencing in HEMA, though it is within the range of longsword blades extant historically and depicted in some fencing manuals. the grip and guard are much closer approximations of fencing longswords/feders, so an argument of historicity falls a bit flat unless really committed to. there do exist some options to make this less of a hybrind (i hesitate to use the word bastard due to its association with a particular type of longsword). these include, for making it more "historical":
+making a smaller crossguard (or modifying the hf one, to make the quillons shorter and/or remove the ring)
+using a shorter grip, potentially as short as a french grip, which would further reduce cost
+adjusting the point of balance with a lighter pommel
+methods of making it more in line with a modern fencing longsword/feder:
+extend the blade by seating the tang shoulders above the crossguard, potentially with a metal straw or other piece of metal that the tang can fit into. this would require using more threaded rod and likely drilling out both grips (or using a custom grip). this is the method used by the chinese made epee bladed feders, which also include a schilt, using a metal 3d printed guard.
