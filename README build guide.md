@@ -2,49 +2,49 @@
 build guide for *epee longue* ultalight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
 
 Parts: 
-HF armory dagger guard (without sail)
-HF armory dagger grip x2
-HF armory dagger pommel
-Blue Gauntlet practice epee blade, #5
-m6x1.0 threaded rod
-m6x1.0 connector nut
-small nails x2
-thermoplastic or other tip
+-HF armory dagger guard (without sail)
+-HF armory dagger grip x2
+-HF armory dagger pommel
+-Blue Gauntlet practice epee blade, #5
+-m6x1.0 threaded rod
+-m6x1.0 connector nut
+-small nails x2
+-thermoplastic or other tip
 
 tools:
-drill
-1/2 inch drill bit
-small drill bit, the same diameter or just a bit smaller than the nails you are using
-metal file or dremel with abrasive attachment
-wire cutters or other tool to cut off nail head
-super glue
-hacksaw sufficient for metal, or other tool for cutting threaded rod
+-drill
+-1/2 inch drill bit
+-small drill bit, the same diameter or just a bit smaller than the nails you are using
+-metal file or dremel with abrasive attachment
+-wire cutters or other tool to cut off nail head
+-super glue
+-hacksaw sufficient for metal, or other tool for cutting threaded rod
 
 Part alternatives: (details discussed later)
 
 guard:
-Zen warrior armory quillons
-custom sendcutsend or other machine cut cross
-metal 3d printing
-plastic 3d printing? (PLA plus or other very tough materials?)
+-Zen warrior armory quillons
+-custom sendcutsend or other machine cut cross
+-metal 3d printing
+-plastic 3d printing? (PLA plus or other very tough materials?)
 
 blade:
-different epee blade
-musketeer blade
-foil blade
-rapier blade
-sidesword blade
+-different epee blade
+-musketeer blade
+-foil blade
+-rapier blade
+-sidesword blade
 
 grip:
-homemade grip (wooden or other)
-French grip
-3d printed grip
-HF armory longsword grip
+-homemade grip (wooden or other)
+-French grip
+-3d printed grip
+-HF armory longsword grip
 
 pommel:
-epee/foil french grip pommel or modern saber pommel
-hex nut
-aluminum, 3d printed, or other light material
+-epee/foil french grip pommel or modern saber pommel
+-hex nut
+-aluminum, 3d printed, or other light material
 
 instructions:
 
