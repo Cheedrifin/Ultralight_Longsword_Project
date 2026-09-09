@@ -1,0 +1,90 @@
+# Ultralight longsword project
+build guide for *epee longue* ultalight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
+
+Parts: 
+HF armory dagger guard (without sail)
+HF armory dagger grip x2
+HF armory dagger pommel
+Blue Gauntlet practice epee blade, #5
+m6x1.0 threaded rod
+m6x1.0 connector nut
+small nails x2
+thermoplastic or other tip
+
+tools:
+drill
+1/2 inch drill bit
+small drill bit, the same diameter or just a bit smaller than the nails you are using
+metal file or dremel with abrasive attachment
+wire cutters or other tool to cut off nail head
+super glue
+hacksaw sufficient for metal, or other tool for cutting threaded rod
+
+Part alternatives: (details discussed later)
+
+guard:
+Zen warrior armory quillons
+custom sendcutsend or other machine cut cross
+metal 3d printing
+plastic 3d printing? (PLA plus or other very tough materials?)
+
+blade:
+different epee blade
+musketeer blade
+foil blade
+rapier blade
+sidesword blade
+
+grip:
+homemade grip (wooden or other)
+French grip
+3d printed grip
+HF armory longsword grip
+
+pommel:
+epee/foil french grip pommel or modern saber pommel
+hex nut
+aluminum, 3d printed, or other light material
+
+instructions:
+
+1: the blade and the guard
+the hf armory dagger guards that I got came with a tang slot slightly too narrow for the blades I got. the blades I got also had the square sections of their tangs somewhat offset from the threaded sections. I ended up filing out the inside of the dagger guards to be 6mm throughout, and also filing off one side of the square part of the tang a bit to make them fit comfortably. this can be done largely by feel, and does not require especially precise measurement, just checking the fit frequently. a dremel will speed up this process significantly.
+
+2: the grip
+I assembled the grip with the wider parts facing the center (that is, the grip closer to the guard is "upside down", while the grip closer to the pommel is "right side up") to simulate a waisted grip. to accommodate the connector nut (described in step 3), I drilled out the tang slot of the pommel side grip with a 1/2 inch drill bit. since I used two grips, I wanted to make sure they would stay in the same plane and not shift around. to achieve this, I drilled two small holes in the face of the wider end of one grip, put a bit of super glue in the holes, hammered two small picture hanging nails halfway in, and cut the heads of the nails off. I then lined up the other grip with the nailed one, and pressed the nails lightly into the matching face. I then drilled holes where those points were marked, allowing the nails from the "upper" grip to seat in the holes from the "lower" grip. it is important to place these nails far enough from the tang slot that they do not interfere with the tang.
+
+3: the tang and pommel
+with the grip completed, I assembled the blade, guard, and guard side grip, then threading the connector nut halfway onto the end of the tang. I then put the threaded rod into the other end of the connector nut, and slotted the pommel side grip over the tang and connected it to the guard side grip. I then marked the threaded rod, about half an inch past where it came out from the pommel side grip. I removed the threaded rod and cut at the marked point. I filed down the sharp edges of the rod, and threaded it back into the connector nut, securing with the pommel on the exposed end of the threaded rod
+
+congrats! you've got an awesome ultralight ~550 gram longsword trainer!
+
+now for some thoughts on the construction of these swords.
+
+-my material costs per unit, not counting shipping, were
+epee blade: 24$
+dagger guard: 10$
+dagger grip: 15$x2, 30$
+dagger pommel: 12$
+connecter nut: 1.42$
+threaded rod: ~1$
+for a total of 78.42.
+shipping from HF was 50$, and 20.95 from blue gauntlet (though I also got other small items from both, so a smaller shipment *may* be less in shipping)
+with shipping, this brings each unit to 113.90$. 
+I believe this cost could be reduced in a few ways, namely the grip and pommel. with a 3d printed grip and a simple hex nut pommel (which I discuss further below), I believe the cost could be as low as 70$ per unit including shipping, or about 35$ not including shipping. the shipping cost would likely be lower per unit if making more than two, as well.
+
+
+-I used off the shelf (non custom, though some aren't listed on the website) parts, to minimize labor and tools required, and to maximize reproducibility. You may prefer to use some custom parts or to modify some parts. 
+
+-the grip is easily the most expensive piece(s), I plan to have a 3d printable version modeled that should be much cheaper and potentially reduce weight, though obviously that would require more labor and investment if you don't already have a 3d printer/filament. You could also probably use the HF longsword grip very effectively, though drilling out the clearance for the connection nut might be harder, depending on the length of your drill bit. 
+
+-I used an HF dagger pommel, which weights about 125 grams and puts the point of balance right at the crossguard. Using a simple hex nut (or another material like something 3d printed or aluminum) would bring the point of balance forward, which would be more representative of historical longswords and fencing longswords. With a hex nut, the weight goes down to about 420g, so that could be a way to reduce weight further if that interests you.
+
+-#5 epee blades are (roughly) 35 inches. this is much shorter than the vast majority of longswords used for fencing in HEMA, though it is within the range of longsword blades extant historically and depicted in some fencing manuals. the grip and guard are much closer approximations of fencing longswords/feders, so an argument of historicity falls a bit flat unless really committed to. there do exist some options to make this less of a hybrid (i hesitate to use the word bastard due to its association with a particular type of longsword). these include:
+methods of making it more "historical":
+-making a smaller crossguard (or modifying the hf one, to make the quillons shorter and/or remove the ring)
+-using a shorter grip, potentially as short as a french grip, which would further reduce cost
+adjusting the point of balance with a lighter pommel
+
+methods of making it more in line with a modern fencing longsword/feder:
+-extend the blade by seating the tang shoulders above the crossguard, potentially with a metal straw or other piece of metal that the tang can fit into. this would require using more threaded rod and likely drilling out both grips (or using a custom grip). this is the method used by the chinese made epee bladed feders, which also include a schilt, using a metal 3d printed guard.
