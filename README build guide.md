@@ -2,49 +2,49 @@
 build guide for *epee longue* ultalight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
 
 Parts: 
--HF armory dagger guard (without sail)
--HF armory dagger grip x2
--HF armory dagger pommel
--Blue Gauntlet practice epee blade, #5
--m6x1.0 threaded rod
--m6x1.0 connector nut
--small nails x2
--thermoplastic or other tip
+-HF armory dagger guard (without sail)<br>
+-HF armory dagger grip x2<br>
+-HF armory dagger pommel<br>
+-Blue Gauntlet practice epee blade, #5<br>
+-m6x1.0 threaded rod<br>
+-m6x1.0 connector nut<br>
+-small nails x2<br>
+-thermoplastic or other tip<br>
 
 tools:
--drill
--1/2 inch drill bit
--small drill bit, the same diameter or just a bit smaller than the nails you are using
--metal file or dremel with abrasive attachment
--wire cutters or other tool to cut off nail head
--super glue
--hacksaw sufficient for metal, or other tool for cutting threaded rod
+-drill<br>
+-1/2 inch drill bit<br>
+-small drill bit, the same diameter or just a bit smaller than the nails you are using<br>
+-metal file or dremel with abrasive attachment<br>
+-wire cutters or other tool to cut off nail head<br>
+-super glue<br>
+-hacksaw sufficient for metal, or other tool for cutting threaded rod<br>
 
 Part alternatives: (details discussed later)
 
 guard:
--Zen warrior armory quillons
--custom sendcutsend or other machine cut cross
--metal 3d printing
--plastic 3d printing? (PLA plus or other very tough materials?)
+-Zen warrior armory quillons<br>
+-custom sendcutsend or other machine cut cross<br>
+-metal 3d printing<br>
+-plastic 3d printing? (PLA plus or other very tough materials?)<br>
 
 blade:
--different epee blade
--musketeer blade
--foil blade
--rapier blade
--sidesword blade
+-different epee blade<br>
+-musketeer blade<br>
+-foil blade<br>
+-rapier blade<br>
+-sidesword blade<br>
 
 grip:
--homemade grip (wooden or other)
--French grip
--3d printed grip
--HF armory longsword grip
+-homemade grip (wooden or other)<br>
+-French grip<br>
+-3d printed grip<br>
+-HF armory longsword grip<br>
 
 pommel:
--epee/foil french grip pommel or modern saber pommel
--hex nut
--aluminum, 3d printed, or other light material
+-epee/foil french grip pommel or modern saber pommel<br>
+-hex nut<br>
+-aluminum, 3d printed, or other light material<br>
 
 instructions:
 
@@ -82,14 +82,14 @@ congrats! you've got an awesome ultralight ~550 gram longsword trainer!
 
 now for some thoughts on the construction of these swords.
 
--my material costs per unit, not counting shipping, were
-epee blade: 24$
-dagger guard: 10$
-dagger grip: 15$x2, 30$
-dagger pommel: 12$
-connecter nut: 1.42$
-threaded rod: ~1$
-for a total of 78.42.
+-my material costs per unit, not counting shipping, were<br>
+epee blade: 24$<br>
+dagger guard: 10$<br>
+dagger grip: 15$x2, 30$<br>
+dagger pommel: 12$<br>
+connecter nut: 1.42$<br>
+threaded rod: ~1$<br>
+for a total of 78.42.<br>
 shipping from HF was 50$, and 20.95 from blue gauntlet (though I also got other small items from both, so a smaller shipment *may* be less in shipping)
 with shipping, this brings each unit to 113.90$. 
 I believe this cost could be reduced in a few ways, namely the grip and pommel. with a 3d printed grip and a simple hex nut pommel (which I discuss further below), I believe the cost could be as low as 70$ per unit including shipping, or about 35$ not including shipping. the shipping cost would likely be lower per unit if making more than two, as well.
@@ -102,10 +102,10 @@ I believe this cost could be reduced in a few ways, namely the grip and pommel. 
 -I used an HF dagger pommel, which weights about 125 grams and puts the point of balance right at the crossguard. Using a simple hex nut (or another material like something 3d printed or aluminum) would bring the point of balance forward, which would be more representative of historical longswords and fencing longswords. With a hex nut, the weight goes down to about 420g, so that could be a way to reduce weight further if that interests you.
 
 -#5 epee blades are (roughly) 35 inches. this is much shorter than the vast majority of longswords used for fencing in HEMA, though it is within the range of longsword blades extant historically and depicted in some fencing manuals. the grip and guard are much closer approximations of fencing longswords/feders, so an argument of historicity falls a bit flat unless really committed to. there do exist some options to make this less of a hybrid (i hesitate to use the word bastard due to its association with a particular type of longsword). these include:
-methods of making it more "historical":
--making a smaller crossguard (or modifying the hf one, to make the quillons shorter and/or remove the ring)
--using a shorter grip, potentially as short as a french grip, which would further reduce cost
-adjusting the point of balance with a lighter pommel
+methods of making it more "historical":<br>
+-making a smaller crossguard (or modifying the hf one, to make the quillons shorter and/or remove the ring)<br>
+-using a shorter grip, potentially as short as a french grip, which would further reduce cost<br>
+adjusting the point of balance with a lighter pommel<br>
 
-methods of making it more in line with a modern fencing longsword/feder:
+methods of making it more in line with a modern fencing longsword/feder:<br>
 -extend the blade by seating the tang shoulders above the crossguard, potentially with a metal straw or other piece of metal that the tang can fit into. this would require using more threaded rod and likely drilling out both grips (or using a custom grip). this is the method used by the chinese made epee bladed feders, which also include a schilt, using a metal 3d printed guard.
