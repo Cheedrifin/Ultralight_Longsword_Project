@@ -1,7 +1,7 @@
 # Ultralight longsword project
 build guide for *epee longue* ultalight longsword trainers with epee blades, and options for variation on guard, grip, pommel, and blade.
 
-Parts: 
+Parts: <br>
 -HF armory dagger guard (without sail)<br>
 -HF armory dagger grip x2<br>
 -HF armory dagger pommel<br>
@@ -11,7 +11,7 @@ Parts:
 -small nails x2<br>
 -thermoplastic or other tip<br>
 
-tools:
+tools:<br>
 -drill<br>
 -1/2 inch drill bit<br>
 -small drill bit, the same diameter or just a bit smaller than the nails you are using<br>
@@ -22,26 +22,26 @@ tools:
 
 Part alternatives: (details discussed later)
 
-guard:
+guard:<br>
 -Zen warrior armory quillons<br>
 -custom sendcutsend or other machine cut cross<br>
 -metal 3d printing<br>
 -plastic 3d printing? (PLA plus or other very tough materials?)<br>
 
-blade:
+blade:<br>
 -different epee blade<br>
 -musketeer blade<br>
 -foil blade<br>
 -rapier blade<br>
 -sidesword blade<br>
 
-grip:
+grip:<br>
 -homemade grip (wooden or other)<br>
 -French grip<br>
 -3d printed grip<br>
 -HF armory longsword grip<br>
 
-pommel:
+pommel:<br>
 -epee/foil french grip pommel or modern saber pommel<br>
 -hex nut<br>
 -aluminum, 3d printed, or other light material<br>
