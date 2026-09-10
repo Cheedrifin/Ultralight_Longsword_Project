@@ -1,4 +1,5 @@
-NOTE: read "build guide" file for instructions and parts https://github.com/Cheedrifin/Ultralight_Longsword_Project/blob/main/build%20guide.md
+NOTE: read "build guide" file for instructions and parts https://github.com/Cheedrifin/Ultralight_Longsword_Project/blob/main/build%20guide.md<br>
+
 if you make one of these (or something similar), you are more than welcome to share photos, commentary, issues, modifications, and general reports on the pros and cons of their use (once you've actually used them), either here or by messaging me on discord (where you probably got the link to this)
 
 My thoughts and considerations for building and use below:
